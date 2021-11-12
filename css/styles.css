@@ -781,6 +781,11 @@ body {
 	justify-content: center;
 }
 
+.modal-btn-close:hover,
+.modal-btn-close:focus {
+	color: var(--accent-color);
+}
+
 .modal-form {
 	display: flex;
 	flex-direction: column;
