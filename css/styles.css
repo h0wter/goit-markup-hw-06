@@ -576,6 +576,11 @@ body {
 	color: var(--secondary-title-color);
 }
 
+.footer-mailing-wrapper {
+	display: flex;
+	align-items: center;
+}
+
 .footer-mailing-mail {
 	width: 358px;
 	height: 50px;
